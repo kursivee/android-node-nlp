@@ -1,0 +1,21 @@
+{
+  "name": "native-gradle-node-project",
+  "version": "0.0.1",
+  "description": "node part of the project",
+  "main": "main.js",
+  "author": "janeasystems",
+  "license": "",
+  "dependencies": {
+    "@microsoft/recognizers-text-suite": "1.1.4",
+    "escodegen": "^1.11.1",
+    "esprima": "^4.0.1",
+    "express": "^4.17.1",
+    "handlebars": "^4.1.2",
+    "intl": "^1.2.5",
+    "kuromoji": "^0.1.2",
+    "lodash": ">=4.17.13",
+    "node-nlp": "^3.2.1",
+    "novel-segment": "^2.2.32",
+    "xlsx": "^0.14.3"
+  }
+}
